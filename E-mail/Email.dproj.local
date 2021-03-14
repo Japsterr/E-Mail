@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/01/02 07:55:33.000.463,=C:\Users\Johan\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/01/02 08:41:52.000.702,C:\Users\Johan\Documents\RAD Studio\Projects\Email.dproj=C:\Users\Johan\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2013/01/02 08:42:19.000.968,C:\Users\Johan\Desktop\Software\E-mail\Unit1.pas=C:\Users\Johan\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/01/02 08:42:19.000.968,C:\Users\Johan\Desktop\Software\E-mail\Unit1.dfm=C:\Users\Johan\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2013/01/02 08:42:51.000.650,C:\Users\Johan\Desktop\Software\E-mail\Email.dproj=C:\Users\Johan\Documents\RAD Studio\Projects\Email.dproj</Transaction>
+    <Transaction>2013/01/03 07:42:47.000.690,=C:\Estimation_Client\frontpage.pas</Transaction>
+    <Transaction>2013/01/03 07:43:08.000.386,C:\Estimation_Client\frontpage.pas=</Transaction>
+    <Transaction>2014/02/24 09:37:06.000.867,=C:\Deckel\mainmenu.pas</Transaction>
+    <Transaction>2014/02/24 09:37:34.000.868,C:\Deckel\mainmenu.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
